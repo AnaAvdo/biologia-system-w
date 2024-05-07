@@ -1,0 +1,18 @@
+{
+    "init_population": 200,
+    "max_population": 1000,
+    "num_genes": 4,
+    "mutation_probability": 0.75, 
+    "mutation_effect": 0.1, 
+    "fitness_coefficient": 0.5,  
+    "max_num_children": 10,
+
+    "scenario": "mixed_gw_m", 
+    "global_warming_scale": 0.005,
+    "global_warming_var": 0.001,
+    "meteor_impact_strategy": 2,
+    "meteor_impact_every": 40,
+    "meteor_impact_at":[20,60],	
+
+    "num_steps": 100
+}
